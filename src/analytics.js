@@ -1,5 +1,6 @@
 function createAnalytics() {
     let counter = 0;
+    hello
     let isDestroyed = false;
 
     const listener = () => counter++;
